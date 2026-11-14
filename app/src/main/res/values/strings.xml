@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Astra Live Agent</string>
+    <string name="accessibility_description">Allows Astra to perform visible, user-requested actions on this device.</string>
+</resources>
